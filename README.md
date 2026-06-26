@@ -1,11 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,100:78350F&height=160" width="100%"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=32&duration=3000&pause=4000&color=F59E0B&center=true&vCenter=true&width=750&height=80&lines=Hi%2C+I%27m+Brian+Soltain!;Hi%2C+I%27m+Brian+Soltani!&deleteSpeed=2500&loop=false&v=3" alt="Brian Soltani" />
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&duration=3000&pause=4000&color=F59E0B&center=true&vCenter=true&width=750&height=50&lines=Applied+Math+%40+GMU+%7C+Aspiring+Researcher;AI+%2F+ML+Engineer+%7C+Full-Stack+Developer&loop=false&v=3" alt="roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=22&duration=3750&pause=5000&color=F59E0B&center=true&multiline=true&width=900&height=220&lines=Hi%2C+I%27m+Brian+Soltain!;Hi%2C+I%27m+Brian+Soltani!;Hi%2C+I%27m+Brian+Soltani!%0AApplied+Math+%40+GMU+%7C+Aspiring+Researcher;Hi%2C+I%27m+Brian+Soltani!%0AApplied+Math+%40+GMU+%7C+Aspiring+Researcher%0AAI+%2F+ML+Engineer+%7C+Full-Stack+Developer&deleteSpeed=3125&loop=false&v=5" alt="Brian Soltani" />
 </p>
 
 
