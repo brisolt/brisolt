@@ -1,13 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:1A1200&height=160&section=header&text=BRIAN%20SOLTANI&fontColor=F59E0B&fontSize=40&fontFamily=monospace&fontAlignY=60" width="100%"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=1200&color=F59E0B&center=true&vCenter=true&width=620&height=55&lines=Applied+Math+%2B+ML+%2F+AI;Full-Stack+Developer;Building+things+that+think" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=1200&color=F59E0B&center=true&vCenter=true&width=620&height=55&lines=Applied+Math+%40+GMU;Aspiring+Researcher;AI+%2F+ML+Engineer;Full-Stack+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%E2%96%B6%20APPLIED%20MATH-F59E0B?style=for-the-badge&labelColor=0D0D0D&color=F59E0B" />
-  <img src="https://img.shields.io/badge/%E2%96%B6%20MACHINE%20LEARNING-FBBF24?style=for-the-badge&labelColor=0D0D0D&color=FBBF24" />
-  <img src="https://img.shields.io/badge/%E2%96%B6%20FULL%20STACK-EAB308?style=for-the-badge&labelColor=0D0D0D&color=EAB308" />
+  <img src="https://img.shields.io/badge/%E2%96%B6%20APPLIED%20MATH%20%40%20GMU-F59E0B?style=for-the-badge&labelColor=0D0D0D&color=F59E0B" />
+  <img src="https://img.shields.io/badge/%E2%96%B6%20ASPIRING%20RESEARCHER-FBBF24?style=for-the-badge&labelColor=0D0D0D&color=FBBF24" />
+  <img src="https://img.shields.io/badge/%E2%96%B6%20AI%20%2F%20ML%20ENGINEER-EAB308?style=for-the-badge&labelColor=0D0D0D&color=EAB308" />
+  <img src="https://img.shields.io/badge/%E2%96%B6%20FULL--STACK%20DEVELOPER-F59E0B?style=for-the-badge&labelColor=0D0D0D&color=F59E0B" />
 </p>
 
 <br>
@@ -15,7 +16,24 @@
 
 ## Tools and Languages
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,ts,js,react,nextjs,tailwind,html,css,java,supabase,git,github,vscode,linux&theme=dark&perline=8" />
+![](https://img.shields.io/badge/Python-F59E0B?style=for-the-badge&logo=python&logoColor=0D0D0D)
+![](https://img.shields.io/badge/TensorFlow-FBBF24?style=for-the-badge&logo=tensorflow&logoColor=0D0D0D)
+![](https://img.shields.io/badge/PyTorch-EAB308?style=for-the-badge&logo=pytorch&logoColor=0D0D0D)
+<br>
+![](https://img.shields.io/badge/TypeScript-F59E0B?style=for-the-badge&logo=typescript&logoColor=0D0D0D)
+![](https://img.shields.io/badge/JavaScript-FBBF24?style=for-the-badge&logo=javascript&logoColor=0D0D0D)
+![](https://img.shields.io/badge/React-EAB308?style=for-the-badge&logo=react&logoColor=0D0D0D)
+![](https://img.shields.io/badge/Next.js-F59E0B?style=for-the-badge&logo=nextdotjs&logoColor=0D0D0D)
+![](https://img.shields.io/badge/TailwindCSS-FBBF24?style=for-the-badge&logo=tailwind-css&logoColor=0D0D0D)
+![](https://img.shields.io/badge/HTML5-EAB308?style=for-the-badge&logo=html5&logoColor=0D0D0D)
+![](https://img.shields.io/badge/CSS3-F59E0B?style=for-the-badge&logo=css3&logoColor=0D0D0D)
+<br>
+![](https://img.shields.io/badge/Java-FBBF24?style=for-the-badge&logo=openjdk&logoColor=0D0D0D)
+![](https://img.shields.io/badge/Supabase-EAB308?style=for-the-badge&logo=supabase&logoColor=0D0D0D)
+![](https://img.shields.io/badge/Git-F59E0B?style=for-the-badge&logo=git&logoColor=0D0D0D)
+![](https://img.shields.io/badge/GitHub-FBBF24?style=for-the-badge&logo=github&logoColor=0D0D0D)
+![](https://img.shields.io/badge/VSCode-EAB308?style=for-the-badge&logo=visual%20studio%20code&logoColor=0D0D0D)
+![](https://img.shields.io/badge/Linux-F59E0B?style=for-the-badge&logo=linux&logoColor=0D0D0D)
 
 <br>
 <br>
