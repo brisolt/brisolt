@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:2D1500,100:0D0D0D&height=220&text=BRIAN%20SOLTANI&fontColor=F59E0B&fontSize=56&fontFamily=monospace&fontAlignY=45&desc=%5B%20APPLIED%20MATH%20%E2%80%A2%20AI%20%2F%20ML%20%E2%80%A2%20FULL--STACK%20%5D&descColor=EAB308&descAlignY=68&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,100:78350F&height=220&text=BRIAN%20SOLTANI&fontColor=ffffff&fontSize=52&fontFamily=monospace&fontAlignY=48&desc=%5B%20APPLIED%20MATH%20%E2%80%A2%20AI%20%2F%20ML%20%E2%80%A2%20FULL--STACK%20%5D&descColor=ffffff&descAlignY=70&descSize=15" width="100%"/>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=1200&color=F59E0B&center=true&vCenter=true&width=620&height=50&lines=Applied+Math+%40+GMU;Aspiring+Researcher;AI+%2F+ML+Engineer;Full-Stack+Developer" alt="Typing SVG" />
@@ -74,4 +74,3 @@
   <img src="https://komarev.com/ghpvc/?username=brisolt&style=for-the-badge&color=F59E0B&labelColor=0D0D0D&label=VISITORS" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A1200&height=80&section=footer" width="100%"/>
