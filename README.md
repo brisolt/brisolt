@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,100:78350F&height=160" width="100%"/>
 
-<p align="center"><img src="./header-animation_v2.gif" width="900" alt="Brian Soltani" /></p>
+<p align="center"><img src="./header-animation-v2.gif" width="900" alt="Brian Soltani" /></p>
 
 
 
@@ -32,8 +32,8 @@
 ## Stats
 
 <p>
-<img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brisolt&langs_count=8&layout=compact&theme=transparent&title_color=FFFFFF&text_color=CBD5E1&hide_border=true" />
-<img align="center" height="200" src="https://streak-stats.demolab.com?user=brisolt&theme=transparent&ring=F59E0B&fire=EAB308&currStreakLabel=FFFFFF&sideLabels=CBD5E1&dates=CBD5E1&hide_border=true" />
+<img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brisolt&langs_count=8&layout=compact&theme=transparent&title_color=58A6FF&text_color=FFFFFF&hide_border=true" />
+<img align="center" height="200" src="https://streak-stats.demolab.com?user=brisolt&theme=transparent&ring=F59E0B&fire=EAB308&currStreakLabel=58A6FF&sideLabels=FFFFFF&dates=ADBAC7&hide_border=true" />
 </p>
 
 <p>
