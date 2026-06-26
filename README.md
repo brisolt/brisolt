@@ -11,33 +11,29 @@
 </p>
 
 <br>
+<br>
 
-<p align="left"><img src="https://img.shields.io/badge/TOOLS%20%26%20LANGUAGES-F59E0B?style=for-the-badge&labelColor=0D0D0D"/></p>
+## Tools and Languages
 
-<p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,ts,js,react,nextjs,tailwind,html,css,java,supabase,git,github,vscode,linux&theme=dark&perline=8" />
-</p>
 
 <br>
+<br>
 
-<p align="left"><img src="https://img.shields.io/badge/STATS-F59E0B?style=for-the-badge&labelColor=0D0D0D"/></p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=brisolt&color=F59E0B&background=%230D0D0D&screen_effect=false">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=brisolt&theme=summer">
-  <img alt="Brian's GitHub Stats" src="https://pixel-profile.vercel.app/api/github-stats?username=brisolt&color=F59E0B&background=%230D0D0D&screen_effect=false" />
-</picture>
+## Stats
 
 <p>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brisolt&langs_count=8&layout=compact&theme=transparent&title_color=F59E0B&text_color=FBBF24&hide_border=true" />
-<img height="160" src="https://streak-stats.demolab.com?user=brisolt&theme=transparent&ring=F59E0B&fire=EAB308&currStreakLabel=F59E0B&sideLabels=FBBF24&hide_border=true" />
+<img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brisolt&langs_count=8&layout=compact&theme=transparent&title_color=F59E0B&text_color=FBBF24&hide_border=true" />
+<img align="center" height="200" src="https://streak-stats.demolab.com?user=brisolt&theme=transparent&ring=F59E0B&fire=EAB308&currStreakLabel=F59E0B&sideLabels=FBBF24&dates=FBBF24&hide_border=true" />
 </p>
 
+<p>
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=brisolt&bg_color=0D0D0D&color=F59E0B&line=FBBF24&point=EAB308&hide_border=true" />
+</p>
 
 <br>
 
-<p align="left"><img src="https://img.shields.io/badge/PROJECTS-F59E0B?style=for-the-badge&labelColor=0D0D0D"/></p>
+## Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -48,7 +44,7 @@
 
 <br>
 
-<p align="left"><img src="https://img.shields.io/badge/CURRENTLY-F59E0B?style=for-the-badge&labelColor=0D0D0D"/></p>
+## Currently
 
 ```
 > Studying ML systems and statistical modeling
