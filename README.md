@@ -1,7 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,100:78350F&height=220&text=BRIAN%20SOLTANI&fontColor=ffffff&fontSize=52&fontFamily=monospace&fontAlignY=48&desc=%5B%20APPLIED%20MATH%20%E2%80%A2%20AI%20%2F%20ML%20%E2%80%A2%20FULL--STACK%20%5D&descColor=ffffff&descAlignY=70&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,100:78350F&height=160" width="100%"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=1200&color=F59E0B&center=true&vCenter=true&width=620&height=50&lines=Applied+Math+%40+GMU;Aspiring+Researcher;AI+%2F+ML+Engineer;Full-Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=2800&pause=800&color=F59E0B&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I'm+Brian+Soltani!" alt="Brian Soltani" />
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=3000&pause=1200&color=F59E0B&center=true&vCenter=true&width=700&height=45&lines=Applied+Math+%40+GMU;Aspiring+Researcher;AI+%2F+ML+Engineer;Full-Stack+Developer" alt="Typing SVG" />
 </p>
 
 
