@@ -1,7 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:1A1200&height=160&section=header&text=BRIAN%20SOLTANI&fontColor=F59E0B&fontSize=40&fontFamily=monospace&fontAlignY=60" width="100%"/>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A1200&height=200&text=BRIAN%20SOLTANI&fontColor=F59E0B&fontSize=56&fontFamily=monospace&fontAlignY=52&desc=%5B%20APPLIED%20MATH%20%E2%80%A2%20AI%20%2F%20ML%20%E2%80%A2%20FULL--STACK%20%5D&descColor=EAB308&descAlignY=76&descSize=16" width="100%"/>
+</p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=1200&color=F59E0B&center=true&vCenter=true&width=620&height=55&lines=Applied+Math+%40+GMU;Aspiring+Researcher;AI+%2F+ML+Engineer;Full-Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=1200&color=F59E0B&center=true&vCenter=true&width=620&height=50&lines=Applied+Math+%40+GMU;Aspiring+Researcher;AI+%2F+ML+Engineer;Full-Stack+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,30 +14,26 @@
 </p>
 
 <br>
-<br>
 
-## Tools and Languages
+![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+<br>
+![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br>
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-![](https://img.shields.io/badge/Python-F59E0B?style=for-the-badge&logo=python&logoColor=0D0D0D)
-![](https://img.shields.io/badge/TensorFlow-FBBF24?style=for-the-badge&logo=tensorflow&logoColor=0D0D0D)
-![](https://img.shields.io/badge/PyTorch-EAB308?style=for-the-badge&logo=pytorch&logoColor=0D0D0D)
-<br>
-![](https://img.shields.io/badge/TypeScript-F59E0B?style=for-the-badge&logo=typescript&logoColor=0D0D0D)
-![](https://img.shields.io/badge/JavaScript-FBBF24?style=for-the-badge&logo=javascript&logoColor=0D0D0D)
-![](https://img.shields.io/badge/React-EAB308?style=for-the-badge&logo=react&logoColor=0D0D0D)
-![](https://img.shields.io/badge/Next.js-F59E0B?style=for-the-badge&logo=nextdotjs&logoColor=0D0D0D)
-![](https://img.shields.io/badge/TailwindCSS-FBBF24?style=for-the-badge&logo=tailwind-css&logoColor=0D0D0D)
-![](https://img.shields.io/badge/HTML5-EAB308?style=for-the-badge&logo=html5&logoColor=0D0D0D)
-![](https://img.shields.io/badge/CSS3-F59E0B?style=for-the-badge&logo=css3&logoColor=0D0D0D)
-<br>
-![](https://img.shields.io/badge/Java-FBBF24?style=for-the-badge&logo=openjdk&logoColor=0D0D0D)
-![](https://img.shields.io/badge/Supabase-EAB308?style=for-the-badge&logo=supabase&logoColor=0D0D0D)
-![](https://img.shields.io/badge/Git-F59E0B?style=for-the-badge&logo=git&logoColor=0D0D0D)
-![](https://img.shields.io/badge/GitHub-FBBF24?style=for-the-badge&logo=github&logoColor=0D0D0D)
-![](https://img.shields.io/badge/VSCode-EAB308?style=for-the-badge&logo=visual%20studio%20code&logoColor=0D0D0D)
-![](https://img.shields.io/badge/Linux-F59E0B?style=for-the-badge&logo=linux&logoColor=0D0D0D)
-
-<br>
 <br>
 
 ## Stats
@@ -73,12 +71,12 @@
 <br>
 
 <p align="center">
-  <a href="mailto:brian.i.soltani@gmail.com"><img src="https://img.shields.io/badge/EMAIL-F59E0B?style=for-the-badge&logo=gmail&logoColor=0D0D0D&labelColor=0D0D0D"/></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-FBBF24?style=for-the-badge&logo=linkedin&logoColor=0D0D0D&labelColor=0D0D0D"/></a>
+  <a href="mailto:brian.i.soltani@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=brisolt&style=for-the-badge&color=F59E0B&labelColor=0D0D0D&label=VISITORS" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1200,100:0D0D0D&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A1200&height=80&section=footer" width="100%"/>
