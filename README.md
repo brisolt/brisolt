@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,100:78350F&height=160" width="100%"/>
 
-<p align="center"><img src="./header-animation-v2.gif" width="900" alt="Brian Soltani" /></p>
+<p align="center"><img src="./header-animation_v2.gif" width="900" alt="Brian Soltani" /></p>
 
 
 
